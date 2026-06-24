@@ -80,23 +80,3 @@ math and plotting.
 pip install numpy matplotlib pandas
 python3 linear_regression_ols.py
 ```
-
-## Repo Structure (suggested)
-
-```
-ml-from-scratch/
-├── week1/              # notes / practice only
-├── week2/
-│   ├── linear_regression_ols.py
-│   ├── linear_regression_gd.py
-│   ├── logistic_regression.py
-│   └── Week2_Report.docx
-├── week3/
-│   ├── decision_tree.py
-│   ├── kmeans.py
-│   ├── anomaly_detection.py
-│   ├── pca.py
-│   ├── face_recognition_pca.py
-│   └── Week3_Report.docx
-└── README.md
-```
